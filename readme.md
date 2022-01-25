@@ -1,4 +1,4 @@
-##Projeto Integrador
+##Projeto Integrador Cantina
 
 Grupos:
 
